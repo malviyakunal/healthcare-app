@@ -1,8 +1,6 @@
 ## HealthCare App
 A mobile application that facilitates making appointments and monitoring patients.
 
-
-Figma [UI design](https://www.figma.com/file/L0xzd81wOR54JDfknXAZaR/HealthCare?node-id=0%3A1)
 <img src="Screenshots/App_ui.png"/>
 
 
